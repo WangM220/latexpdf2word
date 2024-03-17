@@ -1,4 +1,4 @@
-LaTex or pdf file conversion using python
+###LaTex or pdf file conversion using python
 
 This script facilitates the conversion of LaTeX files or PDF files to Word files. It utilizes Python modules such as pypandoc for handling LaTeX files with math formulas and python-docx for managing text content.
 
